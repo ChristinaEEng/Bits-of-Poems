@@ -16,6 +16,10 @@ p {
   font-size: 1em;
 }
 
+.poetry {
+  font: inherit;
+}
+
 body {
   margin-left: 2em;
   margin-right: 2em;
